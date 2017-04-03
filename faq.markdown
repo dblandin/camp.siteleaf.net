@@ -1,12 +1,14 @@
 ---
 title: FAQ
-date: 2016-06-06 08:44:00 Z
+date: 2016-06-06 04:44:00 -04:00
 position: 5
 Hours: 9am - 6pm
 Location: 68 3rd St
 ---
 
 # An exhibit of Markdown
+
+Here is a change
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
 
