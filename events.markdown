@@ -8,6 +8,8 @@ position: 1
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
 
+![bear.jpg](/uploads/bear.jpg)
+
 *Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
 ## Basic formatting
