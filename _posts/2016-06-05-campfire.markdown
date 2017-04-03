@@ -1,6 +1,6 @@
 ---
 title: Campfire
-date: 2016-06-05 00:00:00 Z
+date: 2016-06-04 20:00:00 -04:00
 categories:
 - activities
 tags:
@@ -9,7 +9,7 @@ subtitle: We should do this s’more
 modal-id: 5
 image: "/uploads/campfire.jpg"
 alt: image-alt
-project-date: 2014-04-01 00:00:00 Z
+project-date: 2014-03-31 20:00:00 -04:00
 client: Start Bootstrap
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo
   novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo
@@ -17,3 +17,4 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 layout: default
 ---
 
+Hi there
