@@ -10,6 +10,8 @@ Location: 68 3rd St
 
 Here is a change
 
+[here is my link](/uploads/drizly.pdf)
+
 This note demonstrates some of what [Markdown][1] is capable of doing.
 
 *Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
